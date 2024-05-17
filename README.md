@@ -1,4 +1,4 @@
-t# GitHub Finder
+# GitHub Finder
 
 A small app build with React that lets you search for any GitHub user and check out his public information. This app uses the Context API for state management-
 
