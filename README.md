@@ -6,6 +6,8 @@ This application was bootstrapped with [Create React App](https://github.com/fac
 
 You can check out the live project by clicking [here](https://github-lookup-2020.netlify.app/).
 
+## DEMO [here](https://github-lookup-2020.netlify.app/)
+
 ## Installation
 
 Clone this repository onto your local machine and then install all dependencies using the NPM package manager by running this command in your CLI from the repo root directory:
